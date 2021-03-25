@@ -103,20 +103,6 @@ foreach ($data as $key => $poem) {
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- <script src="./collection.js"></script> -->
-    <!-- <script>
-    const titleClicked = (e) => {
-        console.log(e.dataset.value);
-        // window.scrollTo(0, 0);
-        // var oldActive = document.querySelector("#titlesList .active");
-        // oldActive.classList.remove("active");
-        // var newActive = document.getElementById("title_" + index);
-        // newActive.classList.add("active");
-
-        // var poemContainer = document.getElementById("poemContainer");
-        // poemContainer.innerHTML = "";
-    }
-    </script> -->
 </body>
 
 </html>
